@@ -8,7 +8,8 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
   },
   "repository": {
     "type": "git",
